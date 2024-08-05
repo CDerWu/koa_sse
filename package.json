@@ -1,0 +1,13 @@
+{
+  "name": "photons_koa_sse",
+  "version": "0.3.0",
+  "description": "photons_koa_sse",
+  "main": "index.js",
+  "author": {
+    "name": "CDer"
+  },
+  "dependencies": {
+    "koa_autorouter": "github:CDerWu/koa_autorouter",
+    "koa-sse-stream": "^0.2.0"
+  }
+}
